@@ -10,12 +10,7 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "global": {
-      "languages": [
-        {
-          "language": "en",
-          "href": ""
-        }
-      ],
+
       "versions": [
         {
           "version": "Version",
