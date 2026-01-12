@@ -9,6 +9,41 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "languages": [
+        {
+          "language": "en",
+          "href": ""
+        },
+        {
+          "language": "en",
+          "href": ""
+        },
+        {
+          "language": "en",
+          "href": ""
+        }
+      ],
+      "versions": [
+        {
+          "version": "Version",
+          "default": true,
+          "href": "https://neuroai-cd685bc1.mintlify.app/"
+        }
+      ],
+      "anchors": [
+        {
+          "anchor": "Documentation",
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://mintlify.com/blog"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "Guides",
@@ -67,21 +102,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
